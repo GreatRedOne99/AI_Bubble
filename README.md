@@ -74,7 +74,7 @@ History may not repeat but it definitely rhymes!
     - SPX : 4179.83
     - SPX P/E : 23.09
     - SPX EPS : 181.01
-  - $1^st$ Post COVID SPX Record
+  - 1<sup>st</sup> Post COVID SPX Record
 
 
   
