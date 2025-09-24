@@ -57,15 +57,20 @@ History may not repeat but it definitely rhymes!
   - Technological Maturity: AI has more tangible applications today than many dot-com ideas had in the '90s.
   - Financial Robustness: AI leaders like Nvidia and Microsoft are profitable and diversified, unlike many dot-com startups.
   - Funding Sources: Today’s boom relies more on private capital and strategic partnerships than risky IPOs
+  - Valuation measures are different, peak bubble P/E mulitples can get extreme on the SPX:
+    - End of .Dot Com Bubble
+      - SPX Max P/E : March 2002 : 46.45
+    - Subprime Mortgage Crisis
+      - SPX Max P/E : June 2009 : 122.39
 
   1) Begin AI Hype Cycle ChatGPT Released : November 30, 2022
   2) End of COVID Pandemic : May 11, 2023
-  3) Post COVID SPX Record High : February 9, 2024 
-
+  3) Post COVID SPX Record High : February 9, 2024
+  4) Covid Max P/E : December 2020 : 38.23 
 ---
 ---
 ---
-
+<a href='https://www.macrotrends.net/2577/sp-500-pe-ratio-price-to-earnings-chart'>S&P 500 PE Ratio - 90 Year Historical Chart</a>
   - ChatGPT Released : November 2022
     - SPX : 4080.11
     - SPX P/E : 23.62
@@ -74,7 +79,13 @@ History may not repeat but it definitely rhymes!
     - SPX : 4179.83
     - SPX P/E : 23.09
     - SPX EPS : 181.01
-  - 1<sup>st</sup> Post COVID SPX Record
+  - 1<sup>st</sup> Post COVID SPX Record : February 2024
+    - SPX : 5096.27
+    - SPX P/E : 26.62
+    - SPX EPS : 191.39   
+  - Linear Regression to 38 P/E Mid Covid High P/E - December 2020
+  - Similar .dotcom bubble EPS Growth - YoY 25.77%
+  - 
 
 
   
