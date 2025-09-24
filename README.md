@@ -36,9 +36,24 @@ Therefore, if we assume analogies to the .com (Dot Com) bubble the hype valuatio
   4) AOL Buys Time Warner : January 10, 2000
   5) Nasdaq Peak : March 10, 2000
 
+Key Differences:
+  - Technological Maturity: AI has more tangible applications today than many dot-com ideas had in the '90s.
+  - Financial Robustness: AI leaders like Nvidia and Microsoft are profitable and diversified, unlike many dot-com startups.
+  - Funding Sources: Today’s boom relies more on private capital and strategic partnerships than risky IPOs
+
   1) Begin AI Hype Cycle ChatGPT Released : November 30, 2022
+  2) End of COVID Pandemic : May 11, 2023
+  3) Post COVID SPX Record High : February 9, 2024 
+
+---
+---
+---
+
+  - ChatGPT Released
     - SPX : 4080.11
-    - 
+    - SPX P/E : 23.62
+    - SPX EPS : 172.72
+
 
   
 
