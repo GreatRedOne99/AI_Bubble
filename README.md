@@ -28,7 +28,24 @@
 Approximte Totals - 5 years, Total ROI 271%,  YoY ROI 30%
 
 History may not repeat but it definitely rhymes!
-Therefore, if we assume analogies to the .com (Dot Com) bubble the hype valuation cycle - making these assumptions
+### 🌍 Tech Booms Across Eras: A Comparative Table
+
+| Feature                     | 1920s Tech Boom 🌐              | Post-WWII Boom 🚀               | Dot-Com Bubble 💻               | AI Boom (2020s) 🤖               |
+|----------------------------|----------------------------------|----------------------------------|----------------------------------|----------------------------------|
+| **Time Period**            | ~1920–1929                       | ~1945–1965                       | ~1995–2001                       | ~2022–Present                    |
+| **Core Innovations**       | Cars, radio, aviation            | TVs, nuclear energy, computing   | Internet, e-commerce, software   | GenAI, LLMs, robotics, chips     |
+| **Catalyst Moment**        | Mass production, urbanization    | GI Bill, Cold War tech race      | Netscape IPO, dot-com IPOs       | ChatGPT launch, Nvidia surge     |
+| **Public Sentiment**       | Optimism, modernity, speed       | Prosperity, consumerism, pride   | Utopian tech dreams, FOMO        | Disruption, awe, existentialism  |
+| **Economic Context**       | Post-WWI recovery, rising stocks | Post-WWII expansion, baby boom   | Late-90s bull market, low rates  | Post-COVID rebound, tech rally   |
+| **Speculative Behavior**   | Stock market frenzy              | Housing & credit expansion       | IPO mania, inflated valuations   | VC funding, AI startup frenzy    |
+| **Cultural Shifts**        | Jazz Age, flappers, urban life   | Suburbia, TV culture, consumerism| Dot-com lifestyle, startup ethos | Remote work, creator economy     |
+| **Tech Adoption Curve**    | Rapid but uneven                 | Mass-market penetration          | Explosive but immature           | Viral adoption, global scale     |
+| **Crash Risk**             | 1929 Great Depression            | 1970s stagflation                | 2000–2002 tech crash             | Bubble burst? TBD                |
+| **Survivors**              | Ford, RCA, GE                    | IBM, AT&T, Boeing                | Amazon, Google, eBay             | Nvidia, Microsoft, OpenAI?       |
+
+
+
+##### Therefore, if we assume analogies to the .com (Dot Com) bubble the hype valuation cycle - making these assumptions
 
   1) Begin .Dot Com Hype Cycle - AOL Goes Public : March, 19, 1992
   2) Netscape Goes Public : August 9, 1995
@@ -36,7 +53,7 @@ Therefore, if we assume analogies to the .com (Dot Com) bubble the hype valuatio
   4) AOL Buys Time Warner : January 10, 2000
   5) Nasdaq Peak : March 10, 2000
 
-Key Differences:
+### Key Differences:
   - Technological Maturity: AI has more tangible applications today than many dot-com ideas had in the '90s.
   - Financial Robustness: AI leaders like Nvidia and Microsoft are profitable and diversified, unlike many dot-com startups.
   - Funding Sources: Today’s boom relies more on private capital and strategic partnerships than risky IPOs
