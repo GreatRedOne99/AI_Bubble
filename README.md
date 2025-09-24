@@ -66,10 +66,15 @@ History may not repeat but it definitely rhymes!
 ---
 ---
 
-  - ChatGPT Released
+  - ChatGPT Released : November 2022
     - SPX : 4080.11
     - SPX P/E : 23.62
     - SPX EPS : 172.72
+  - End of Covid (CDC) : May 2023
+    - SPX : 4179.83
+    - SPX P/E : 23.09
+    - SPX EPS : 181.01
+  - $1^st$ Post COVID SPX Record
 
 
   
