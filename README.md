@@ -9,10 +9,37 @@
     - SPX P/E : 24.93
     - SPX EPS : 16.19
   - 1995 Netscape Goes Public - beginning of the mega boom
-    - SPX : 
+    - SPX : 561.88
+    - SPX P/E : 15.97
+    - SPX EPS : 35.18
+  - 1996 Alan Greenspan - Irrational Exuberance Speech
+    - SPX : 740.74
+    - SPX P/E : 19.12
+    - SPX EPS : 38.73
+  - 2000 AOL Buys Time Warner in all Stock
+    - SPX : 1394.46
+    - SPX P/E : 27.37
+    - SPX EPS : 50.95
+  - 2000 Nasdaq Peaks at 5048.62
+    - SPX : 1498.58
+    - SPX P/E : 29.41
+    - SPX EPS : 50.95
 
+Approximte Totals - 5 years, Total ROI 271%,  YoY ROI 30%
+
+History may not repeat but it definitely rhymes!
 Therefore, if we assume analogies to the .com (Dot Com) bubble the hype valuation cycle - making these assumptions
+
   1) Begin .Dot Com Hype Cycle - AOL Goes Public : March, 19, 1992
   2) Netscape Goes Public : August 9, 1995
+  3) Alan Greenspan Irrational Exuberance Speech : December 5, 1996
+  4) AOL Buys Time Warner : January 10, 2000
+  5) Nasdaq Peak : March 10, 2000
+
+  1) Begin AI Hype Cycle ChatGPT Released : November 30, 2022
+    - SPX : 4080.11
+    - 
+
+  
 
 
