@@ -43,8 +43,19 @@ st.sidebar.write(f"- SPY Price: ${baseline_spy}")
 st.sidebar.write(f"- S&P 500 EPS: ${baseline_eps}")
 st.sidebar.write(f"- Implied P/E: ~{baseline_spy / (baseline_eps * spy_multiplier):.1f}×")
 
+# Load README content
+@st.cache_data
+def load_readme():
+    try:
+        with open('README.md', 'r', encoding='utf-8') as f:
+            return f.read()
+    except Exception as e:
+        return f"Could not load README.md: {e}"
+
+readme_content = load_readme()
+
 # Main content tabs
-tab1, tab2, tab3 = st.tabs(["📊 Price Projections", "📈 Valuation Scenarios", "🎲 Monte Carlo Simulation"])
+tab1, tab2, tab3, tab4 = st.tabs(["📊 Price Projections", "📈 Valuation Scenarios", "🎲 Monte Carlo Simulation", "📖 About"])
 
 with tab1:
     st.header("SPY Price Projection with Adjustable Parameters")
@@ -303,6 +314,10 @@ with tab3:
     This means there's a 95% probability that SPY will be within this range by {target_year},
     given the specified parameters.
     """)
+
+with tab4:
+    st.header("📖 About This Project")
+    st.markdown(readme_content)
 
 # Footer
 st.markdown("---")
