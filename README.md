@@ -85,9 +85,46 @@ History may not repeat but it definitely rhymes!
     - SPX EPS : 191.39   
   - Linear Regression to 38 P/E Mid Covid High P/E - December 2020
   - Similar .dotcom bubble EPS Growth - YoY 25.77%
-  - 
 
+---
 
+## Interactive Streamlit App
+
+This project now includes an interactive **Streamlit web application** that allows you to explore SPY valuation scenarios through 2029.
+
+### Features
+
+- **Price Projections**: Adjust EPS CAGR and P/E ratios to see how SPY might perform
+- **Valuation Scenarios**: Compare different P/E multiples (15x to 30x) across bubble and correction scenarios
+- **Monte Carlo Simulation**: Run probabilistic simulations to understand the range of possible outcomes
+
+### Installation
+
+1. Install dependencies:
+```bash
+pip install -r requirements.txt
+```
+
+### Running the App
+
+Launch the Streamlit app:
+```bash
+streamlit run app.py
+```
+
+The app will open in your browser at `http://localhost:8501`
+
+### What You Can Do
+
+1. **Tab 1 - Price Projections**: Adjust EPS growth rate and P/E ratio to see custom projections
+2. **Tab 2 - Valuation Scenarios**: Compare multiple P/E scenarios side-by-side
+3. **Tab 3 - Monte Carlo**: Run 100-5000 simulations to see probability distributions
+
+### Data
+
+The app uses [spy_historical_data.csv](spy_historical_data.csv) for historical SPY data.
+
+---
   
 
 
