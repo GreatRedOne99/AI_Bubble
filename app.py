@@ -333,3 +333,5 @@ st.markdown("""
 - Adjust parameters to simulate different macro regimes
 - Monte Carlo simulation uses random sampling for probabilistic outcomes
 """)
+if __name__ == "__main__":
+    main()
