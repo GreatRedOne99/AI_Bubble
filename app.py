@@ -16,7 +16,7 @@ st.set_page_config(
 )
 
 # Title and description
-st.title("📈 SPY Valuation Simulator: AI Bubble 2029")
+st.title("📈 Streamlit SPY Valuation Simulator: AI Bubble 2029")
 st.markdown("""
 This simulator projects SPY's trajectory through an **AI-driven bubble** scenario by 2029.
 Adjust the parameters below to explore different scenarios.
