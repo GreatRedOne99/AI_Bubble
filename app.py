@@ -314,7 +314,7 @@ with tab3:
     st.dataframe(ci_data, use_container_width=True)
 
     st.success(f"""
-    **95% Confidence Interval:** ${np.percentile(final_spy_sims, 2.5):.2f} – ${np.percentile(final_spy_sims, 97.5):.2f}
+               **95% Confidence Interval:** ${np.percentile(final_spy_sims, 2.5):.2f} – ${np.percentile(final_spy_sims, 97.5):.2f}
 
     This means there's a 95% probability that SPY will be within this range by {target_year},
     given the specified parameters.
@@ -333,5 +333,3 @@ st.markdown("""
 - Adjust parameters to simulate different macro regimes
 - Monte Carlo simulation uses random sampling for probabilistic outcomes
 """)
-if __name__ == "__main__":
-    main()
